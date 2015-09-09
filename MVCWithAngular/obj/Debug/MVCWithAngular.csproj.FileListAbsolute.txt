@@ -1,0 +1,120 @@
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\MVCWithAngular.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\MVCWithAngular.pdb
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\Antlr3.Runtime.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\EntityFramework.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\Newtonsoft.Json.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Formatting.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.WebHost.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Mvc.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Optimization.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Providers.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Razor.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Razor.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\WebGrease.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\EntityFramework.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\Newtonsoft.Json.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Formatting.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.WebHost.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Mvc.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Razor.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Razor.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.pdb
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.csproj.App.config
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\MVCWithAngular.dll.config
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Extensions.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Primitives.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Helpers.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Extensions.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Primitives.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Helpers.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\schast\Desktop\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\MVCWithAngular.dll.config
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\MVCWithAngular.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\MVCWithAngular.pdb
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\Antlr3.Runtime.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\EntityFramework.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\Newtonsoft.Json.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Extensions.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Formatting.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Primitives.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Helpers.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.WebHost.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Mvc.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Optimization.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Providers.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Razor.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\WebGrease.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\EntityFramework.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Extensions.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Formatting.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Primitives.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Helpers.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Mvc.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Razor.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\Newtonsoft.Json.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.WebHost.xml
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.csproj.App.config
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.dll
+C:\Users\Stephen\Documents\CAMP Projects\Bootstrap\SandBox\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.pdb
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\MVCWithAngular.dll.config
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\MVCWithAngular.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\MVCWithAngular.pdb
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\Antlr3.Runtime.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\EntityFramework.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\Newtonsoft.Json.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Extensions.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Formatting.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Primitives.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Helpers.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.WebHost.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Mvc.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Optimization.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Providers.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Razor.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\WebGrease.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\EntityFramework.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Extensions.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Formatting.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Net.Http.Primitives.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Helpers.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Mvc.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Razor.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\Newtonsoft.Json.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\bin\System.Web.Http.WebHost.xml
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.csproj.App.config
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.dll
+C:\Users\Stephen\Documents\Projects\MVCWithAngular\MVCWithAngular\obj\Debug\MVCWithAngular.pdb
