@@ -6,11 +6,7 @@
 
         showBeerForm: false
     };
-
-
-   
-
-   
+         
     
     $scope.new = {
 
@@ -33,6 +29,8 @@
         $http.post("/Home/Edit", $scope.new.Beer).success(function (data) {
 
             $scope.model.Beers.push(data);
+            $scope.showBeerForm(false);
+
 
         });
     }
