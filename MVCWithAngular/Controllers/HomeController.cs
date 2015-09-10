@@ -28,6 +28,9 @@ namespace MVCWithAngular.Controllers
         
         public ActionResult IndexVM() 
         {
+            // This is for testing purposes
+            // I have used Google Chrome extension that shows Json objects
+
             var model = new BeerIndexVM();
 
             model.Beers.ToList();
