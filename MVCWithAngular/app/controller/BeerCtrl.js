@@ -4,7 +4,8 @@
     $scope.model = {};
     $scope.states = {
 
-        showBeerForm: false
+        showBeerForm: false,
+        isAdding: false
     };
          
     
@@ -25,12 +26,12 @@
     };
 
     $scope.addBeer = function () {
-
+        $scope.states.isAdding = true;
         $http.post("/Home/Edit", $scope.new.Beer).success(function (data) {
-
+            $scope.states.isAdding = false;
             $scope.model.Beers.push(data);
             $scope.showBeerForm(false);
-
+            $scope.new.Beer = {};
 
         });
     }

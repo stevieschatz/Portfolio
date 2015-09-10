@@ -5,8 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using MVCWithAngular.Models;
 using System.Runtime.Remoting.Contexts;
-
-
+using System.Threading;
 
 namespace MVCWithAngular.Controllers
 {
@@ -43,6 +42,9 @@ namespace MVCWithAngular.Controllers
         [HttpPost]
         public ActionResult Edit(BeerEditVM model)
         {
+
+            Thread.Sleep(2000);
+
             var model1 = new BeerIndexVM();
 
             var beer = new Beer()

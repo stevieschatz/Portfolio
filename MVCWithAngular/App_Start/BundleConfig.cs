@@ -20,10 +20,18 @@ namespace MVCWithAngular
                 "~/Scripts/angular-route.js"));
 
 
+            //Bootstrap Ladda 
+            //TODO Create these dynamically, BUT first lets hust get it working and we can fix this later
+
+            /*
+            bundles.Add(new ScriptBundle("../bundles/ladda").Include(
+                "<link rel=\"stylesheet\" href=\"dist / ladda - themeless.min.css\">"));
+            bundles.Add(
+            bundles.Add( */
 
 
-            //Bundle multiple angular javascript files into one folder called "app"
-            bundles.Add(new ScriptBundle("~/bundles/AngularCustom").IncludeDirectory("~/app", "*.js", true));
+           //Bundle multiple angular javascript files into one folder called "app"
+           bundles.Add(new ScriptBundle("~/bundles/AngularCustom").IncludeDirectory("~/app", "*.js", true));
 
             //Default
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
