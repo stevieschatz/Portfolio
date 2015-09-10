@@ -43,6 +43,7 @@ namespace MVCWithAngular.Controllers
         public ActionResult Edit(BeerEditVM model)
         {
 
+            //This thread we sleep for a small fraction of time to see the Ladda to take effect
             Thread.Sleep(2000);
 
             var model1 = new BeerIndexVM();
