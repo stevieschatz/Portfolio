@@ -51,13 +51,10 @@ namespace MVCWithAngular.Controllers
             var beer = new Beer()
             {
                 //The ID I hard coded for testing purposes
-
                 Id = 9568369+1,
                 Name = model.Name,
                 Colour = model.Colour,
                 HasTried = model.HasTried
-
-
 
             };
 
