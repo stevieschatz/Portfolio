@@ -23,9 +23,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
       <!--Scripts -->
-      <link rel="stylesheet" href="dist/ladda-themeless.min.css">
-      <script src="dist/spin.min.js"></script>
-      <script src="dist/ladda.min.js"></script>
+     
      
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -151,7 +149,7 @@
 
                                 <td>
 
-                                    <button type="button" class="btn btn-primary" ng-click="addBeer()">Add</button>
+                                    <button type="button" class="btn btn-primary ladda-button" ng-click="addBeer()" data-style="expand-left" loading-button spin="states.isAdding" >Add</button>
                                     <button type="button" class="btn btn-default" ng-click="showBeerForm(false)">Cancel</button>
                                 </td>
                                 
